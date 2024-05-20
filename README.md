@@ -1,11 +1,11 @@
-- 👋 Hola, soy @FreditoDev, 
-- 👀 Estoy en búsqueda de Cofundador o Socio
-- 🌱 Cursando paralelamente varias Certificaciones
-- 💞️ Dispuesto a colaborar en Ciberseguridad o Diseño Web
-- 📫 Contactame por linkedin @alfredoalarcon
-- 😄 Pronouns: Fredy
-- ⚡ Ing en Informática, Especialista en Ciberseguridad
+- 👋 @FreditoDev, Esp. Ciberseguridad
+- 👀 Estoy en búsqueda de Cofundador 
+- 🎓 Cursando Certificaciones
+- 💞️ Colaborador en Proyectos
+- 📫 Contacto linkedin @alfredoalarcon
+- 😄 Apodo: Fredy
+- ⚡ Ing en Informática
 - 🚀 Desarrollador Saas, Web, Juegos
-- 🫶 Autor del libro Cibersecurity "Protectibg your digital lige in 21 st Century
-- 👌 Autor del libro Mastering Aws Amazon Web Services
-- 🙌 Artista (Cantante): @fredyalarconmusic 
+- 🫶 Autor del libro Cibersecurity
+-  "Protectibg your digital life in 21th Century & Mastering Aws Amazon Services
+- 🙌 Cantante @fredyalarconmusic 
