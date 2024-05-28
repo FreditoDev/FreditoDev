@@ -1,11 +1,11 @@
 - 👋 @FreditoDev, Esp. Ciberseguridad
 - 👀 Estoy en búsqueda de Cofundador 
-- 🎓 Cursando Certificaciones
+- 🎓 Certificando Phyton & CC
 - 💞️ Colaborador en Proyectos
 - 📫 Contacto linkedin @alfredoalarcon
 - 😄 Apodo: Fredy
 - ⚡ Ing en Informática
-- 🚀 Desarrollador Saas, Web, Juegos
-- 🫶 Autor del libro Cibersecurity
+- 🚀 Desarrollador Apps, Web, Juegos
+- 🫶 Autor de:!Cibersecurity
 -  "Protectibg your digital life in 21th Century & Mastering Aws Amazon Services
 - 🙌 Cantante @fredyalarconmusic 
